@@ -1,0 +1,20 @@
+{
+  "name": "Andrew Ly",
+  "website": "https://athly23.github.io/",
+  "linkedin": "https://www.linkedin.com/in/andrew-ly-245b04113/",
+  "github": "athly23",
+  "email": "andrewly06@gmail.com",
+  "resume": "https://github.com/Athly23/npm-resume",
+  "proficientTechnologies": [
+    "Javascript",
+    "React",
+    "Vue",
+    "Node",
+    "Express",
+    "Mongodb",
+    "PostgreSQL",
+    "Python",
+    "Django"
+  ],
+  "otherSkills": ["Finanical Analysis", "Time Management ", "Critical Thinking"]
+}
